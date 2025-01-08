@@ -14,14 +14,14 @@ technologies are learn for basic they are  html and css , bootstrap .
 🔭 I’m currently working on Linked in clone<br>
 <br>🌱 I’m currently learning cloud services & Backend developing skills<br>
 <br>💬 Ask me about Python , Html , Css , Javascript , Bootstrap , django , microsoft excel , microsoft word & power point<br>
-<br>📫 How to reach me venkatapavanvangara318@gmail.com<br>
+<br>📫 How to reach me venkatadhanush090@gmail.com<br>
 <br>⚡ Fun fact i love capturing memories .... 📷
 
 
 
 
 ## 🌐 SOCIAL MEDIA:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venkatapavan_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/venkatapavanvangara951a06232) 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vangara-venkatadhanush-912275259) 
 
 # 💻 PROGRAMMING LANGUAGES :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,21 +38,16 @@ technologies are learn for basic they are  html and css , bootstrap .
 # GITHUB : 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GITHUB STATUS:
-![](https://github-readme-stats.vercel.app/api?username=venkatapavan318&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=venkatapavan318&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatapavan318&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=venkatadhanush090&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=venkatadhanush090&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatadhanush090&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GITHUB TROPHIES : 
-![](https://github-profile-trophy.vercel.app/?username=venkatapavan318&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=venkatadhanush090&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ RANDOM DEV QUOTE : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 TOP CONTRIBUTED REPO
-![](https://github-contributor-stats.vercel.app/api?username=venkatapavan318&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=venkatapavan318&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
